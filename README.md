@@ -18,8 +18,6 @@
 
 <p align="center">
 
-<a href="#"><img title="My Helper" src="https://img.shields.io/badge/⚜ iKnow #77777 ⚜-black?colorA=%000000&colorB=%ffffff&style=for-the-badge"></a>
-
 </p>
 
 <p align="center">
