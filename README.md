@@ -1,7 +1,5 @@
 <a href="https://github.com/FrenzY8"><img title="CREATOR :" src="https://img.shields.io/badge/PROJECT FILE NAME : -FrenzY X DDOS-yellow.svg?style=for-the-badge&logo=github"></a>
 
-<a href="https://github.com/FrenzY8"><img title="CREATOR :" src="https://img.shields.io/badge/WHAT YOU NEED?  : -YOU NEED TO SUBSCRIBE FrenzY8-red.svg?style=for-the-badge&logo=github"></a>
-
 <p align="center">
 
 </p>
