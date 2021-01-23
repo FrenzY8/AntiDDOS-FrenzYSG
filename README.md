@@ -46,7 +46,7 @@
 
 </p>
 
-<a href="https://youtube.com/bennyhidayat"><img title="SUBSCRIBE :" src="https://img.shields.io/badge/SUBSCRIBE : -BennyHidayat-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://youtube.com/bennyhidayat"><img title="SUBSCRIBE :" src="https://img.shields.io/badge/PRO CODING : -OnlyGAMESv34-red.svg?style=for-the-badge&logo=github"></a>
 
 </p>
 
@@ -54,18 +54,25 @@
 
 ## This One You Need !! :
 >> Python 2.0+
+
 >> CMD
+
 >> YOUR IP FOR PROTECT
 
 ## How To Use ?? :
 >> OPEN THIS FILE
+
 >> ON PYTHON PUT YOUR IP
+
 >> AND YOU NEED TO ACCES KEY
 
 ## The Key Is :
 >> Ae44yTRkLo
+
 >> FrenzyGoodMods
+
 >> YtRRUip23mL
+
 >> gTuiPP76gVUb
 
 ## You Succes If :
@@ -73,5 +80,6 @@
 
 ## Coding & Developer :
 >> FrenzYSG
+
 >> iKnow #77777
 
